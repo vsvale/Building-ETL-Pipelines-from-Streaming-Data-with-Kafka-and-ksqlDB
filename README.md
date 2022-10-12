@@ -1,4 +1,19 @@
-# Building-ETL-Pipelines-from-Streaming-Data-with-Kafka-and-ksqlDB
+# [Building-ETL-Pipelines-from-Streaming-Data-with-Kafka-and-ksqlDB](https://app.pluralsight.com/library/courses/kafka-streams-ksql-fundamentals)
+
+Kafka can do more than just storing streaming data. This course will teach you to aggregate and analyze data in Kafka with ksqlDB and Kafka Streams. 
+
+## Author
+
+[Eugene Meidinger](https://app.pluralsight.com/profile/author/eugene-meidinger)
+
+## Learning Platform
+
+[Pluralsight](https://www.pluralsight.com/)
+
+## Description
+There is plenty of value in learning how to turn Kafka into a stream analytics engine. In this course, Building ETL Pipelines from Streaming Data with Kafka and KSQL, you’ll learn to shape and transform your Kafka streaming data. First, you’ll explore how ksqlDB and Kafka Streams both solve this problem. Next, you’ll discover how to transform your streams. Finally, you’ll learn how to aggregate and enrich data. When you’re finished with this course, you’ll have the skills and knowledge of ksqlDB and Kafka Streams needed to extract insights from Kafka streaming data.
+
+## Notes
 
 ### Install KSQLDB
 - https://ksqldb.io/quickstart.html
